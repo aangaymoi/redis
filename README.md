@@ -1,1 +1,1 @@
-# redis
+# Redis example on windows.
