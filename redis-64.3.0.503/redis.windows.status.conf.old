@@ -1,7 +1,0 @@
-include redis.windows.conf
-
-port 6379
-dir .\status
-
-save ""
-dbfilename status.rdb
